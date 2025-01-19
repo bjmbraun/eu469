@@ -7,6 +7,9 @@ project:
     - "2025/*.qmd"
     - "2025/weeks/01/*.qmd"
 
+execute:
+  freeze: auto
+  
 website:
   title: "EU469: Political economy of finance in Europe 2024/25"
   page-navigation: true
