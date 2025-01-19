@@ -6,7 +6,7 @@ format:
     include-after-body: helpers/remove-title.html
 ---
 
-# 📑 Course Brief
+# Course Brief
 
 Politics and policymaking in Europe happen in the context of a global monetary and financial order. This course teaches students a political economy framework to understand and analyse this order, and the privileges and constraints it imposes on financial, non-financial, and state actors in Europe. The introductory segment of the course examines the broad contours of the historical evolution of finance since the late 19th century: The first financial globalization in the shadow of European colonial expansion; the period of financial deglobalization following World War II; and the liberalization period that began in the 1970s. The second part focuses on the key actors (such as institutional capital pools) and the key assets (such as sovereign bonds) in Europe’s contemporary financial system. In order to be able to map the relationships between financial and non-financial actors, students learn how to access, process, and visualize financial data. The third part of the course brings this understanding of finance to bear on political challenges in Europe. What role does finance play in old-age provision? Can governments secure policy space in a world of global capital mobility? By the end of the course, students will have acquired the tools to analyse a broad range of political economy questions through a financial lens.
 
