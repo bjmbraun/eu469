@@ -265,6 +265,6 @@ nfa_piketty |>
 -   Actor A's asset is is actor B's liability (week 3)
 -   Shares are still issued by limited-liability corporations and fund shares are still issued by mutual funds (week 4)
 -   Sovereign debt still makes and unmakes states (week 5)
--   Enforcement of private claims against sovereign debtors remains a battle ground (week 7)
+-   Enforcing private claims against sovereign debtors remains contested (week 7)
 
 ## Bibliography
