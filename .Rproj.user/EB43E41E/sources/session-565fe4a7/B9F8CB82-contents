@@ -1,0 +1,36 @@
+---
+title: "EU469: Political economy of finance in Europe"
+format:
+  html:
+    include-before-body: helpers/remove-nav.html
+    include-after-body: helpers/remove-title.html
+---
+
+# 📑 Course Brief
+
+Politics and policymaking in Europe happen in the context of a global monetary and financial order. This course teaches students a political economy framework to understand and analyse this order, and the privileges and constraints it imposes on financial, non-financial, and state actors in Europe. The introductory segment of the course examines the broad contours of the historical evolution of finance since the late 19th century: The first financial globalization in the shadow of European colonial expansion; the period of financial deglobalization following World War II; and the liberalization period that began in the 1970s. The second part focuses on the key actors (such as institutional capital pools) and the key assets (such as sovereign bonds) in Europe’s contemporary financial system. In order to be able to map the relationships between financial and non-financial actors, students learn how to access, process, and visualize financial data. The third part of the course brings this understanding of finance to bear on political challenges in Europe. What role does finance play in old-age provision? Can governments secure policy space in a world of global capital mobility? By the end of the course, students will have acquired the tools to analyse a broad range of political economy questions through a financial lens.
+
+
+# 🎯 Learning Objectives
+
+You will learn to
+
+1.  understand the global monetary and financial system as a set of interlocking, hierarchically organized balance sheets;
+
+2.  use R to obtain, process, and visualize financial data;
+
+3.  identify the distributional consequences of the existing order;
+
+4.  understand why policy space is reduced for many countries, and what governments can do to increase it;
+
+5.  how to think about alternative institutional arrangements.
+
+
+-----------------
+
+**Select Academic Year/Term:**
+
+<a href="2025/index.qmd">
+    <button class="button-61">2024/25</button>
+</a>
+
