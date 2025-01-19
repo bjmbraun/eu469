@@ -1,61 +1,197 @@
 [
   {
-    "objectID": "2023/weeks/week01/slides.html#your-lecturer",
-    "href": "2023/weeks/week01/slides.html#your-lecturer",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Your lecturer",
-    "text": "Your lecturer\n\n\n\n\n\nProf. Octopian Professor of Octopus Issues Head of the Python vs R Debate Society\n\n\n\n\nPhD in Octopi Engineering\nBackground: Engineering of Deep Ocean constructions\nFormer Lead Data Scientist\n\ndeep ocean  engineering  octopus"
+    "objectID": "2025/weeks/01/slides.html#what-is-global-finance-1",
+    "href": "2025/weeks/01/slides.html#what-is-global-finance-1",
+    "title": "Late 19th-century finance: First financial globalization?",
+    "section": "What is global finance?",
+    "text": "What is global finance?\nThe economics textbook view\n\n“A vast expansion in world trade had brought all manner of new goods into international commerce … The New World’s abundant land, embodied in its agricultural exports, flooded into Europe, and European manufactures were traded back in exchange. … peripheral trading nations lined up to provide the necessary nitrates, bauxite, rubber, coal, and oil. In labor markets too, there was a freedom simply unimaginable today. … Labor, whether skilled or unskilled, could, in principle, wander around the world seeking out the best returns or the most desirable location, unhindered by quotas, immigration inspectors, and the like.” (Obstfeld and Taylor 2005)"
   },
   {
-    "objectID": "2023/weeks/week01/slides.html#teaching-assistants",
-    "href": "2023/weeks/week01/slides.html#teaching-assistants",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Teaching Assistants",
-    "text": "Teaching Assistants\n\n\n\n\n\nOctopnuian Arveda  PhD Candidate at OctopusLab, OUN  MSc in Octopus Transportation 📧 \n\n\n\n\n\n\nOctopnuian Arveda  PhD Candidate at OctopusLab, UOS  MSc in Octopus Transportation 📧"
+    "objectID": "2025/weeks/01/slides.html#what-is-global-finance-2",
+    "href": "2025/weeks/01/slides.html#what-is-global-finance-2",
+    "title": "Late 19th-century finance: First financial globalization?",
+    "section": "What is global finance?",
+    "text": "What is global finance?\nThe economics textbook view\n\n\n\n\n\n\n\n“The first phase lasted from 1870 to the First World War. During this time, rich countries constantly exported between 1–2% of their aggregate GDP to the rest of the world. Over time, it added up to a significant resource transfer from rich to poor. … In the capital market before 1914, the world’s poor were indeed the world’s borrowers and the rich countries the world’s bankers.” (Schularick 2016)\n\n\n\n\n\n\n\n\n\nFigure 1: Net capital flows from rich to poor economies relative to GDP, 1875–2010"
   },
   {
-    "objectID": "2023/index.html",
-    "href": "2023/index.html",
-    "title": "MY_COURSE_CODE - MY_COURSE_NAME",
+    "objectID": "2025/weeks/01/slides.html#first-period-of-european-colonialism",
+    "href": "2025/weeks/01/slides.html#first-period-of-european-colonialism",
+    "title": "Late 19th-century finance: First financial globalization?",
+    "section": "First period of European colonialism",
+    "text": "First period of European colonialism\n\n\n\n\n\n\n1500 – early 19th century: Military, expeditionary colonialism, based on conquest and slavery\n\n\nMain function of finance: Financing of “trading” expeditions and other colonial enterprises"
+  },
+  {
+    "objectID": "2025/weeks/01/slides.html#old-colonialism-the-dutch-empire",
+    "href": "2025/weeks/01/slides.html#old-colonialism-the-dutch-empire",
+    "title": "Late 19th-century finance: First financial globalization?",
+    "section": "Old colonialism: The Dutch empire",
+    "text": "Old colonialism: The Dutch empire\n\n\n\n\n\n\n\nVereenigde Oostindische Compagnie, founded in 1602\n‘Business model’: War, slavery, and trade, mainly in Asia\nNationalised in 1796; dissolved 1799\nAll assets taken over by the government; VOC territories became government colonies\n\n\n\n\n\n\nOlfert Dapper, East India House, 1663. Amsterdam City Archives. Source: (Petram 2014)."
+  },
+  {
+    "objectID": "2025/weeks/01/slides.html#old-colonialism-the-dutch-empire-1",
+    "href": "2025/weeks/01/slides.html#old-colonialism-the-dutch-empire-1",
+    "title": "Late 19th-century finance: First financial globalization?",
+    "section": "Old colonialism: The Dutch empire",
+    "text": "Old colonialism: The Dutch empire\n\n\n\n\n\n\n\nProblem: Financing long-distance, expensive, high-risk ventures\nSolution: ?\n\n\n\n\n\n\nBruijn, Gaastra, and Schöffer (1987); reproduced in (Gelderblom, De Jong, and Jonker 2013)."
+  },
+  {
+    "objectID": "2025/weeks/01/slides.html#old-colonialism-the-dutch-empire-2",
+    "href": "2025/weeks/01/slides.html#old-colonialism-the-dutch-empire-2",
+    "title": "Late 19th-century finance: First financial globalization?",
+    "section": "Old colonialism: The Dutch empire",
+    "text": "Old colonialism: The Dutch empire\n\n\n\n\n\n\n\nAmsterdam Bourse: Established 1602; world’s first stock exchange\nPlace to trade VOC stock\nInitial number of VOC shareholders: 1000\nVOC shares amounted to a “financial revolution”, offering investors “prospects of speculative gains without serious loss of liquidity” (Gelderblom and Jonker 2004, 641)\n\n\n\n\n\n\nHendrick de Keyser Exchange, etching by C.J. Visscher (1612). Stadsarchief Amsterdam. Source: Wikipedia."
+  },
+  {
+    "objectID": "2025/weeks/01/slides.html#old-colonialism-british-empire",
+    "href": "2025/weeks/01/slides.html#old-colonialism-british-empire",
+    "title": "Late 19th-century finance: First financial globalization?",
+    "section": "Old colonialism: British empire",
+    "text": "Old colonialism: British empire\n\n\n\n\n\n\n\nSimilar story for the British East India Company (EIC)\nProfits based on large-scale violence:\n\nFrom 1750s: war-making for territorial conquest as the EIC’s primary activity\nOver its life course, military expenditure accounted for 75% of the EIC’s expenses (Nogues-Marco 2021, 187).\n\n\n\n\n\n\n\nEast India House, Leadenhall Street, London. Built 1726–9.\n\n\n\n\n\n\nThe headquarters of the East India Company on Leadenhall Street was demolished in 1861 (https://blogs.bl.uk/asian-and-african/2017/01/east-india-company-headquarters-on-leadenhall-street.html)"
+  },
+  {
+    "objectID": "2025/weeks/01/slides.html#second-period-of-european-colonialism",
+    "href": "2025/weeks/01/slides.html#second-period-of-european-colonialism",
+    "title": "Late 19th-century finance: First financial globalization?",
+    "section": "Second period of European colonialism",
+    "text": "Second period of European colonialism\n\n\n\n\n\n\n1500 – early 19th century: Military, expeditionary colonialism, based on conquest and slavery\n\n\nMain function of finance: Financing of “trading” expeditions and other colonial enterprises\n\n\n\n\nEarly 19th century – 1960: Still very violent, but European rule territorilized and economic relations institutionalized\n\n\nMain function of finance: Investment of metropolitan wealth in shares and bonds issued by governments and companies in the periphery"
+  },
+  {
+    "objectID": "2025/weeks/01/slides.html#british-empire-foreign-colonial",
+    "href": "2025/weeks/01/slides.html#british-empire-foreign-colonial",
+    "title": "Late 19th-century finance: First financial globalization?",
+    "section": "British empire: Foreign & Colonial",
+    "text": "British empire: Foreign & Colonial\n\n\n\n\n\n\n\nFinancial innovation: Fund shares issued by the Foreign and Colonial Investment Trust (1868), the world’s oldest surviving closed-end (mutual) fund\nPurpose: cheap access to securities from a wider range of countries for the ‘investing public’\n\n\n\n\n\n\nF&C today\n\n\n\n\n\n\nThe stated purpose of Foreign & Colonial was to create a vehicle that would give the investing public cheaper access to securities from a wider range of countries."
+  },
+  {
+    "objectID": "2025/weeks/01/slides.html#finance-imperialism-the-hobson-view",
+    "href": "2025/weeks/01/slides.html#finance-imperialism-the-hobson-view",
+    "title": "Late 19th-century finance: First financial globalization?",
+    "section": "Finance & imperialism: The Hobson view",
+    "text": "Finance & imperialism: The Hobson view\n\n\n\nA “New Liberal”, Hobson opposed classical, laissez-faire liberalism\nHis antisemitism, while common at the time, tinges his analysis (Cain 2002)\nHis critique of British imperialism became canonical: Capitalists in the metropole accumulated excess profits above and beyond what they could re-invest profitably at home; their consequent search for investment opportunities abroad fueled imperial expansion and exploitation:\n\n\n“the endeavor of the great controllers of industry to broaden the channel for the flow of their surplus wealth by seeking foreign markets and foreign investments to take off the goods and capital they cannot sell or use at home” (Hobson 2011)\n\n\nShared by Marxist theorists of imperialism: Lenin & Rosa Luxemburg\n\n\n\n\n\nJ. A. Hobson"
+  },
+  {
+    "objectID": "2025/weeks/01/slides.html#testing-hobson-lenin-luxemburg",
+    "href": "2025/weeks/01/slides.html#testing-hobson-lenin-luxemburg",
+    "title": "Late 19th-century finance: First financial globalization?",
+    "section": "Testing Hobson-Lenin-Luxemburg",
+    "text": "Testing Hobson-Lenin-Luxemburg\nHauner, Milanovic, and Naidu (2017) set out to test the Hobson-Lenin-Luxemburg thesis using historical data on investment returns. Results:\n\n“The rich tended to invest overwhelmingly in foreign assets because they were, adjusted for risk, more profitable than available domestic opportunities.”\n“To protect such foreign assets, whether portfolio or direct, the countries, partially at the instigation of investors in foreign assets, increased military investments.”\n\n\n\n\n\n\n\n\n\n\nReal return rate spread between foreign and domestic bonds\n\n\n\n\n\n\n\nReal return rate spread between French foreign securities and French domestic bonds"
+  },
+  {
+    "objectID": "2025/weeks/01/slides.html#fiscal-policy-maker-of-states",
+    "href": "2025/weeks/01/slides.html#fiscal-policy-maker-of-states",
+    "title": "Late 19th-century finance: First financial globalization?",
+    "section": "Fiscal policy: Maker of states",
+    "text": "Fiscal policy: Maker of states\n\nFiscal shocks and state building (Queralt 2022)"
+  },
+  {
+    "objectID": "2025/weeks/01/slides.html#pawned-states-puzzle",
+    "href": "2025/weeks/01/slides.html#pawned-states-puzzle",
+    "title": "Late 19th-century finance: First financial globalization?",
+    "section": "‘Pawned states:’ Puzzle",
+    "text": "‘Pawned states:’ Puzzle\n\n\n\n\n\n\n\nSovereign borrowers in the Global South or periphery had weak ‘fundamentals’ and regularly defaulted on their foreign debt\nAnd yet, they had access to relatively cheap external credit\n\n\n\n\n\n\nNominal interest rates excluding British dependencies (Queralt 2022, 81)"
+  },
+  {
+    "objectID": "2025/weeks/01/slides.html#pawned-states-explanation",
+    "href": "2025/weeks/01/slides.html#pawned-states-explanation",
+    "title": "Late 19th-century finance: First financial globalization?",
+    "section": "‘Pawned states:’ Explanation",
+    "text": "‘Pawned states:’ Explanation\n“Extreme conditionality”\n\n“the hypothecation of local assets (e.g., state monopolies, railroads, and customs houses) for fresh foreign loans” (Queralt 2022, 3)"
+  },
+  {
+    "objectID": "2025/weeks/01/slides.html#fiscal-policy-unmaker-of-states",
+    "href": "2025/weeks/01/slides.html#fiscal-policy-unmaker-of-states",
+    "title": "Late 19th-century finance: First financial globalization?",
+    "section": "Fiscal policy: Unmaker of states",
+    "text": "Fiscal policy: Unmaker of states"
+  },
+  {
+    "objectID": "2025/weeks/01/slides.html#what-is-global-finance-really-1",
+    "href": "2025/weeks/01/slides.html#what-is-global-finance-really-1",
+    "title": "Late 19th-century finance: First financial globalization?",
+    "section": "What is global finance, really?",
+    "text": "What is global finance, really?\n\nBased on ‘poor’ countries’ negative current account balance—see Figure 1—during the 1870-1914 period, economists speak of “a significant resource transfer from rich to poor” (Schularick 2016).\nHowever, this interpretation ignores financial transfers from poor to rich (in balance of payments terminology: ‘primary income’; more in week 3)\n\n\n“a fact that may not be sufficiently well known, although it is well attested by trade statistics from the era and was well known to contemporaries. In the period 1880–1914, the United Kingdom and France earned so much from their investments in the rest of the world (roughly 5 percent additional national income for France and more than 8 percent for the United Kingdom) that they could allow themselves to run persistent structural trade deficits (an average of 1–2 percent of national income for both countries) while continuing to accumulate claims on the rest of the world at an accelerated pace.” (Piketty 2020, 283)"
+  },
+  {
+    "objectID": "2025/weeks/01/slides.html#what-is-global-finance-really-2",
+    "href": "2025/weeks/01/slides.html#what-is-global-finance-really-2",
+    "title": "Late 19th-century finance: First financial globalization?",
+    "section": "What is global finance, really?",
+    "text": "What is global finance, really?\n\n\n\n\n\n\n\n“In other words, the rest of the world labored to increase the consumption and standard of living of the colonial powers, even as it became increasingly indebted to those powers.” (Piketty 2020, 283)\n\n\n\n\n\n\n\nNet foreign assets of imperial powers"
+  },
+  {
+    "objectID": "2025/weeks/01/slides.html#what-is-global-finance-really-3",
+    "href": "2025/weeks/01/slides.html#what-is-global-finance-really-3",
+    "title": "Late 19th-century finance: First financial globalization?",
+    "section": "What is global finance, really?",
+    "text": "What is global finance, really?\nThe political economy view\n\nCreating, trading, and enforcing financial claims\n… by specific actors: states, firms, individuals\n… connected via relationships of hierarchy and power\nWe study these relationships through the lens of\n\nassets and liabilities\nstocks and flows\nin short: balance sheets and financial data"
+  },
+  {
+    "objectID": "2025/weeks/01/slides.html#outlook-1",
+    "href": "2025/weeks/01/slides.html#outlook-1",
+    "title": "Late 19th-century finance: First financial globalization?",
+    "section": "Outlook",
+    "text": "Outlook\n\nFinancial globalization returned in a post-colonial world (week 2)\nActor A’s asset is is actor B’s liability (week 3)\nShares are still issued by limited-liability corporations and fund shares are still issued by mutual funds (week 4)\nSovereign debt still makes and unmakes states (week 5)\nEnforcing private claims against sovereign debtors remains contested (week 7)"
+  },
+  {
+    "objectID": "2025/weeks/01/slides.html#bibliography",
+    "href": "2025/weeks/01/slides.html#bibliography",
+    "title": "Late 19th-century finance: First financial globalization?",
+    "section": "Bibliography",
+    "text": "Bibliography\n\n\n\n\nCain, Peter J. 2002. Hobson and Imperialism: Radicalism, New Liberalism, and Finance 1887-1938. Oxford University Press.\n\n\nGelderblom, Oscar, Abe De Jong, and Joost Jonker. 2013. “The Formative Years of the Modern Corporation: The Dutch East India Company VOC, 16021623.” The Journal of Economic History 73 (4): 1050–76.\n\n\nGelderblom, Oscar, and Joost Jonker. 2004. “Completing a Financial Revolution: The Finance of the Dutch East India Trade and the Rise of the Amsterdam Capital Market, 15951612.” The Journal of Economic History 64 (3): 641–72. https://doi.org/10.1017/s002205070400292x.\n\n\nHauner, Thomas, Branko Milanovic, and Suresh Naidu. 2017. “Inequality, Foreign Investment, and Imperialism.”\n\n\nHobson, John A. 2011. Imperialism: A Study. Cambridge: Cambridge University Press.\n\n\nNogues-Marco, Pilar. 2021. “Measuring Colonial Extraction: The East India Company’s Rule and the Drain of Wealth (17571858).” Capitalism: A Journal of History and Economics 2 (1): 154–95.\n\n\nObstfeld, Maurice, and Alan M. Taylor. 2005. Global Capital Markets: Integration, Crisis, and Growth. Cambridge University Press.\n\n\nPetram, Lodewijk. 2014. The World’s First Stock Exchange. Columbia University Press.\n\n\nPiketty, Thomas. 2020. Capital and Ideology. Harvard University Press.\n\n\nQueralt, Didac. 2022. Pawned States: State Building in the Era of International Finance. Princeton University Press. https://www.degruyter.com/document/doi/10.1515/9780691231518/html.\n\n\nSchularick, Moritz. 2016. “International Capital Flows.” In. Oxford University Press. https://academic.oup.com/edited-volume/28353/chapter/215210051."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "EU469: Political economy of finance in Europe",
     "section": "",
-    "text": "📢 Important\n\n\n\n\n\n(12/03/2023)\n\n🗓️ Week 01 lecture material is now available!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nMY_NAME  MY_JOB_TITLE  MY_INSTITUTION 📧 MY_EMAIL ( at )\nOffice Hours:\n\nWhen:\nWhere:\nHow to book:\n\n\n\n\nTA_NAME  PhD Candidate at PLACE  📧 EMAIL ( at )\n\nTA_NAME  PhD Candidate at PLACE  📧 EMAIL ( at )\n\n\n\n\n\n📍 Lecture\nFridays 2pm-4pm at PLACE\n\n\n💻 Class Groups\n\nGroup 01\n\n📆 Mondays\n⌚ 09:00 - 10:30\n📍\n🧑‍🏫 TA_NAME\n\n\n\nGroup 02\n\n📆 Mondays\n⌚ 10:30 - 12:00\n📍\n🧑‍🏫 TA_NAME\n\n\n\nGroup 03\n\n📆 Fridays\n⌚ 16:00 - 17:30\n📍\n🧑‍🏫 TA_NAME",
+    "text": "📑 Course Brief\nPolitics and policymaking in Europe happen in the context of a global monetary and financial order. This course teaches students a political economy framework to understand and analyse this order, and the privileges and constraints it imposes on financial, non-financial, and state actors in Europe. The introductory segment of the course examines the broad contours of the historical evolution of finance since the late 19th century: The first financial globalization in the shadow of European colonial expansion; the period of financial deglobalization following World War II; and the liberalization period that began in the 1970s. The second part focuses on the key actors (such as institutional capital pools) and the key assets (such as sovereign bonds) in Europe’s contemporary financial system. In order to be able to map the relationships between financial and non-financial actors, students learn how to access, process, and visualize financial data. The third part of the course brings this understanding of finance to bear on political challenges in Europe. What role does finance play in old-age provision? Can governments secure policy space in a world of global capital mobility? By the end of the course, students will have acquired the tools to analyse a broad range of political economy questions through a financial lens.\n\n\n🎯 Learning Objectives\nYou will learn to\n\nunderstand the global monetary and financial system as a set of interlocking, hierarchically organized balance sheets;\nuse R to obtain, process, and visualize financial data;\nidentify the distributional consequences of the existing order;\nunderstand why policy space is reduced for many countries, and what governments can do to increase it;\nhow to think about alternative institutional arrangements.\n\n\nSelect Academic Year/Term:\n 2024/25"
+  },
+  {
+    "objectID": "2025/index.html",
+    "href": "2025/index.html",
+    "title": "EU469: Political economy of finance in Europe",
+    "section": "",
+    "text": "📢 Important\n\n\n\n\n\n(19/01/2025)\n\n🗓️ Week 01 lecture material is now available!",
     "crumbs": [
       "🏠 Home"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "MY COURSE CODE - MY COURSE NAME",
-    "section": "",
-    "text": "📑 Course Brief\nFocus: the focus of this course is to learn stuff\nHow: hands-on learning\n\n\n🎯 Learning Objectives\n\nYou will discover how to do X\nDistinguish X from X\nPractice how to put things in italic\nDiscover how to highlight code inline\nProceed to learn stuff\n\n\nSelect Academic Year/Term:\n 2022/23"
+    "objectID": "2025/index.html#course-convenor",
+    "href": "2025/index.html#course-convenor",
+    "title": "EU469: Political economy of finance in Europe",
+    "section": "Course convenor",
+    "text": "Course convenor\n\n\n\n\n\nBenjamin Braun  Assistant professor in political economy  European Institute, LSE  b.braun@lse.ac.uk ( at ) \nOffice hours:\n\nWhen: Monday afternoon\nWhere: CBG 6.06\nHow to book: LSE for You",
+    "crumbs": [
+      "🏠 Home"
+    ]
   },
   {
-    "objectID": "2023/weeks/week01/page.html",
-    "href": "2023/weeks/week01/page.html",
-    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
+    "objectID": "2025/weeks/01/page.html",
+    "href": "2025/weeks/01/page.html",
+    "title": "🗓️ Week 01 -Late 19th-century finance: First financial globalizations",
     "section": "",
-    "text": "In this first week, we will cover what you can expect to learn from this course and the course logistics: all you need to know about the structure of the lectures, classes, assessments, and how we will interact throughout this course.",
+    "text": "Financial globalization is not new. The first financial globalization reached its peak in the late 19th / early 20th century. It was a both a driver and a byproduct of colonial expansion and imperialism. We will discuss two competing interpretations of the relationship between the financial core and periphery during this period. From a ‘financing perspective’, wealth owners in the metropolis provided scarce financial capital to their colonies. From a ‘financial claim’ perspective, they acquired claims on local economies at prices kept artificially low—and returns kept artificially high—by power asymmetries. These competing perspectives and the resulting differing interpretations of core-periphery dynamics retain their relevance today.",
     "crumbs": [
       "🗓️ Weeks",
       "Week 01"
     ]
   },
   {
-    "objectID": "2023/weeks/week01/page.html#lecture-slides",
-    "href": "2023/weeks/week01/page.html#lecture-slides",
-    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
-    "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle.",
+    "objectID": "2025/weeks/01/page.html#lecture-slides",
+    "href": "2025/weeks/01/page.html#lecture-slides",
+    "title": "🗓️ Week 01 -Late 19th-century finance: First financial globalizations",
+    "section": "Lecture Slides",
+    "text": "Lecture Slides\nEither click on the slide area below or click here to view it in full screen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle.",
     "crumbs": [
       "🗓️ Weeks",
       "Week 01"
     ]
   },
   {
-    "objectID": "2023/weeks/week01/page.html#coursework",
-    "href": "2023/weeks/week01/page.html#coursework",
-    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
+    "objectID": "2025/weeks/01/page.html#coursework",
+    "href": "2025/weeks/01/page.html#coursework",
+    "title": "🗓️ Week 01 -Late 19th-century finance: First financial globalizations",
     "section": "✍️ Coursework",
     "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧",
     "crumbs": [
@@ -64,22 +200,11 @@
     ]
   },
   {
-    "objectID": "2023/weeks/week01/page.html#recommended-reading",
-    "href": "2023/weeks/week01/page.html#recommended-reading",
-    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
+    "objectID": "2025/weeks/01/page.html#recommended-reading",
+    "href": "2025/weeks/01/page.html#recommended-reading",
+    "title": "🗓️ Week 01 -Late 19th-century finance: First financial globalizations",
     "section": "📚 Recommended Reading",
     "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 01"
-    ]
-  },
-  {
-    "objectID": "2023/weeks/week01/page.html#communication",
-    "href": "2023/weeks/week01/page.html#communication",
-    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
-    "section": "📟 Communication",
-    "text": "📟 Communication\n\nIf you feel like it, introduce yourself in the #introductions channel on Slack",
     "crumbs": [
       "🗓️ Weeks",
       "Week 01"
