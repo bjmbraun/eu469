@@ -1,0 +1,270 @@
+---
+title: "Late 19th-century finance: First financial globalization?"
+subtitle: "Political economy of finance in Europe: Week 1"
+author: "Benjamin Braun"
+format: 
+  revealjs:
+    theme: ../../../css/slides.scss
+    highlight-style: monokai
+    slide-number: true
+    embed-resources: true
+    code-overflow: wrap
+    code-copy: hover
+    footer: "LSE | EU469 | Week 1"
+preload-iframes: true
+filters:
+  - reveal-auto-agenda
+  - list-table
+auto-agenda:
+  bullets: numbered
+  heading: Agenda
+execute: 
+  echo: false
+  cache: true
+bibliography: ../../../references/references.bib
+---
+
+```{r}
+#Load packages
+library(tidyverse)
+library(thematic)
+```
+
+# What is global finance? 
+
+## What is global finance? {.smaller}
+
+[The economics textbook view]{.bg}
+
+> “A vast expansion in world trade had brought all manner of new goods into international commerce … The New World’s abundant land, embodied in its agricultural exports, flooded into Europe, and European manufactures were traded back in exchange. … peripheral trading nations lined up to provide the necessary nitrates, bauxite, rubber, coal, and oil. In labor markets too, there was a freedom simply unimaginable today. … Labor, whether skilled or unskilled, could, in principle, wander around the world seeking out the best returns or the most desirable location, unhindered by quotas, immigration inspectors, and the like.” [@obstfeldGlobalCapitalMarkets2005]
+
+## What is global finance? {.smaller}
+
+[The economics textbook view]{.bg}
+
+::: {layout="[[2,1.5]]"}
+> “The first phase lasted from 1870 to the First World War. During this time, rich countries constantly exported between 1–2% of their aggregate GDP to the rest of the world. Over time, it added up to a significant resource transfer from rich to poor. ... In the capital market before 1914, the world’s poor were indeed the world’s borrowers and the rich countries the world’s bankers.” [@schularickInternationalCapitalFlows2016]
+
+![Net capital flows from rich to poor economies relative to GDP, 1875–2010](../../../input/01/schularick-cap-flows.png){#fig-schularick}
+:::
+
+# Two periods of European colonialism
+
+## First period of European colonialism
+
+::: {layout="[[1, 1]]"}
+**1500 – early 19th century:** Military, expeditionary colonialism, based on conquest and slavery
+
+**Main function of finance:** Financing of “trading” expeditions and other colonial enterprises
+:::
+
+# Old colonialism
+
+## Old colonialism: The Dutch empire
+
+::: {layout="[[1.5, 1]]"}
+-   Vereenigde Oostindische Compagnie, founded in 1602
+-   ‘Business model’: War, slavery, and trade, mainly in Asia
+-   Nationalised in 1796; dissolved 1799
+-   All assets taken over by the government; VOC territories became government colonies
+
+![Olfert Dapper, East India House, 1663. Amsterdam City Archives. Source: [@petramWorldFirstStock2014].](../../../input/01/dutch-east-india.png)
+:::
+
+## Old colonialism: The Dutch empire
+
+::: {layout="[[1.5, 1]]"}
+-   **Problem:** Financing long-distance, expensive, high-risk ventures
+-   **Solution: ?**
+
+![Bruijn, Gaastra, and Schöffer (1987); reproduced in [@gelderblomFormativeYearsModern2013].](../../../input/01/bruijn-ship-voyages.png)
+:::
+
+## Old colonialism: The Dutch empire
+
+::: {layout="[[1.5, 1]]"}
+-   Amsterdam Bourse: Established 1602; world’s first stock exchange
+-   Place to trade VOC stock
+-   Initial number of VOC shareholders: 1000
+-   VOC shares amounted to a "financial revolution", offering investors "prospects of speculative gains without serious loss of liquidity" [@gelderblomCompletingFinancialRevolution2004, p. 641]
+
+![Hendrick de Keyser Exchange, etching by C.J. Visscher (1612). Stadsarchief Amsterdam. Source: Wikipedia.](../../../input/01/amsterdam-bourse.jpg)
+:::
+
+## Old colonialism: British empire
+
+::: {layout="[[1.5,1]]"}
+-   Similar story for the British East India Company (EIC)
+-   Profits based on large-scale violence:
+    -   From 1750s: war-making for territorial conquest as the EIC's primary activity
+    -   Over its life course, military expenditure accounted for 75% of the EIC's expenses [@nogues-marcoMeasuringColonialExtraction2021, p. 187].
+
+![East India House, Leadenhall Street, London. Built 1726–9.](../../../input/01/east-india-house.jpg)
+:::
+
+::: notes
+The headquarters of the East India Company on Leadenhall Street was demolished in 1861 (https://blogs.bl.uk/asian-and-african/2017/01/east-india-company-headquarters-on-leadenhall-street.html)
+:::
+
+# New imperialism
+
+## Second period of European colonialism
+
+::: {layout="[[1, 1]]"}
+**1500 – early 19th century:** Military, expeditionary colonialism, based on conquest and slavery
+
+**Main function of finance:** Financing of “trading” expeditions and other colonial enterprises
+
+[**Early 19th century – 1960:** Still very violent, but European rule territorilized and economic relations institutionalized]{style="color:darkred;"}
+
+[**Main function of finance:** Investment of metropolitan wealth in shares and bonds issued by governments and companies in the periphery]{style="color:darkred;"}
+:::
+
+## British empire: Foreign & Colonial
+
+::: {layout="[[2,1]]"}
+-   **Financial innovation:** Fund shares issued by the *Foreign and Colonial Investment Trust* (1868), the world's oldest surviving closed-end (mutual) fund
+-   **Purpose:** cheap access to securities from a wider range of countries for the ‘investing public’
+
+![F&C today](../../../input/01/foreign-colonial.png)
+:::
+
+::: notes
+The stated purpose of Foreign & Colonial was to create a vehicle that would give the investing public cheaper access to securities from a wider range of countries.
+:::
+
+## Finance & imperialism: The Hobson view {.smaller}
+
+::::: columns
+::: {.column width="80%"}
+-   A “New Liberal”, Hobson opposed classical, laissez-faire liberalism
+-   His antisemitism, while common at the time, tinges his analysis [@cainHobsonImperialismRadicalism2002]
+-   His critique of British imperialism became canonical: Capitalists in the metropole accumulated excess profits above and beyond what they could re-invest profitably at home; their consequent search for investment opportunities abroad fueled imperial expansion and exploitation:
+
+> “the endeavor of the great controllers of industry to broaden the channel for the flow of their surplus wealth by seeking foreign markets and foreign investments to take off the goods and capital they cannot sell or use at home” [@hobsonImperialismStudy2011]
+
+-   Shared by Marxist theorists of imperialism: Lenin & Rosa Luxemburg
+:::
+
+::: {.column width="20%"}
+![J. A. Hobson](../../../input/01/hobson.jpg)
+:::
+:::::
+
+## Testing Hobson-Lenin-Luxemburg {.smaller}
+
+@haunerInequalityForeignInvestment2017 set out to test the Hobson-Lenin-Luxemburg thesis using historical data on investment returns. Results:
+
+> “The rich tended to invest overwhelmingly in foreign assets because they were, adjusted for risk, more profitable than available domestic opportunities.”
+>
+> “To protect such foreign assets, whether portfolio or direct, the countries, partially at the instigation of investors in foreign assets, increased military investments.”
+
+::: {layout="[[1,1]]"}
+![Real return rate spread between foreign and domestic bonds](../../../input/01/hauner-1.png){width="60%"}
+
+![Real return rate spread between French foreign securities and French domestic bonds](../../../input/01/hauner-2.png){width="60%"}
+:::
+
+# Sovereign debt in the 19^th^ century
+
+## Fiscal policy: Maker of states
+
+![Fiscal shocks and state building [@queraltPawnedStatesState2022]](../../../input/01/queralt-scheme-cut.png)
+
+
+## 'Pawned states:' Puzzle 
+::: {layout="[[1,1.5]]"}
+-   Sovereign borrowers in the Global South or periphery had weak ‘fundamentals’ and regularly defaulted on their foreign debt
+-   And yet, they had access to relatively cheap external credit
+
+![Nominal interest rates excluding British dependencies [@queraltPawnedStatesState2022, p. 81]](../../../input/01/queralt-rates.png)
+::: 
+
+## 'Pawned states:' Explanation
+
+[“Extreme conditionality”]{.bg}
+
+> “the hypothecation of local assets (e.g., state monopolies, railroads, and customs houses) for fresh foreign loans” [@queraltPawnedStatesState2022, p. 3]
+
+## Fiscal policy: Unmaker of states
+
+::: {layout="[[1,2]]"}
+![](../../../input/01/queralt-cover.png)
+
+![](../../../input/01/queralt-scheme.png)
+:::
+
+# What is global finance, really? {.smaller}
+
+## What is global finance, really? {.smaller}
+
+-   Based on ‘poor’ countries' negative current account balance—see @fig-schularick—during the 1870-1914 period, economists speak of “a significant [resource transfer]{.fg} from rich to poor” [@schularickInternationalCapitalFlows2016].
+
+-   However, this interpretation ignores [financial transfers]{.fg} from poor to rich (in balance of payments terminology: **‘primary income’**; more in week 3)
+
+> “a fact that may not be sufficiently well known, although it is well attested by trade statistics from the era and was well known to contemporaries. In the period 1880–1914, the United Kingdom and France earned so much from their investments in the rest of the world (roughly 5 percent additional national income for France and more than 8 percent for the United Kingdom) that they could allow themselves to run persistent structural trade deficits (an average of 1–2 percent of national income for both countries) while continuing to accumulate claims on the rest of the world at an accelerated pace.” [@pikettyCapitalIdeology2020, p. 283]
+
+## What is global finance, really?
+
+::: {layout="[[1,1.4]]"}
+> “In other words, the rest of the world labored to increase the consumption and standard of living of the colonial powers, even as it became increasingly indebted to those powers.” [@pikettyCapitalIdeology2020, p. 283]
+
+```{r}
+#| fig-cap: "Net foreign assets of imperial powers"
+#| fig-asp: 0.8
+
+#Load Piketty 2020 data on net foreign assets since 1810
+nfa_piketty <- read_csv("~/Library/CloudStorage/OneDrive-LondonSchoolofEconomics/Data/fin-openness-exposure/net_foreign_assets_piketty.csv")
+
+#Pivot longer
+nfa_piketty <- nfa_piketty |> 
+  pivot_longer(2:7, names_to = "country", values_to = "value") |> 
+  filter(!is.na(value))
+
+#Plot
+nfa_piketty |> 
+  ggplot(aes(x = year, y = value, color = country)) +
+  geom_line(linewidth = 1.6) +
+  geom_text(data = nfa_piketty |> filter(year == last(year)), aes(label = country, 
+                                                               x = year + 10, 
+                                                               y = value, 
+                                                               color = country),
+            size = 10) + 
+  labs(x = NULL,
+       y = "Share of GDP",
+       color = NULL) +
+  scale_y_continuous(labels = scales::label_percent()) +
+  scale_color_manual(values = okabe_ito()) +
+  theme_bw(base_size = 40) +
+  theme(legend.position = "none",
+        panel.grid.minor = element_blank())
+```
+:::
+
+## What is global finance, really?
+
+[The political economy view]{.bg}
+
+-   [Creating, trading, and enforcing]{.fg} financial claims 
+
+-   ... by specific actors: [states, firms, individuals]{.fg}
+
+-   ... connected via relationships of [hierarchy and power]{.fg}
+
+-   We study these relationships through the lens of
+
+    -   assets and liabilities
+    -   stocks and flows
+    -   in short: balance sheets and financial data
+
+# Outlook
+
+## Outlook
+
+-   Financial globalization returned in a post-colonial world (week 2)
+-   Actor A's asset is is actor B's liability (week 3)
+-   Shares are still issued by limited-liability corporations and fund shares are still issued by mutual funds (week 4)
+-   Sovereign debt still makes and unmakes states (week 5)
+-   Enforcement of private claims against sovereign debtors remains a battle ground (week 7)
+
+## Bibliography

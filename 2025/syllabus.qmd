@@ -1,0 +1,225 @@
+---
+documentclass: scrreprt
+title: "EU469: Political economy of finance in Europe"
+subtitle: "Syllabus—Winter term 2025"
+author:
+  - name: "Course convenor: Dr. Benjamin Braun"
+    email: "b.braun@lse.ac.uk"
+    affiliation:
+      - name: "London School of Economics and Political Science"
+date: "today"
+format: pdf
+---
+
+## Course content
+
+European politics unfolds in the context of a global financial order and hierarchy, created and sustained by public and private actors alike. In this course, students will acquire the tools to understand this system of interlocking balance sheets, and to analyse the privileges and constraints it imposes on financial, non-financial, and state actors in Europe. The introductory segment examines the broad contours of the historical evolution of finance since the late 19th century: The first financial globalization in the context of European colonial expansion; financial deglobalization following World War II; and renewed liberalization starting in the 1970s. The second part focuses on some of the key actors and assets in the contemporary financial system. In order to be able to map the relationships between financial and non-financial actors, students learn how to access and visualize financial data. We will apply these skills to study the rise of institutional capital pools, the structure of sovereign borrowing, the underpinnings of—and challenges to—U.S. dollar hegemony. The third part of the course applies this framework to the analysis of key political challenges in Europe. What role does finance play in old-age provision? Can governments secure policy space in a world of global capital mobility? By the end of the course, students have acquired the tools to approach a broad range of political economy questions from a financial perspective.
+
+## Objectives
+
+Students will learn to...
+
+1.  conceptualize the financial system as a set of interlocking, hierarchically organized balance sheets;
+
+2.  analyse the distributional consequences of alternative financial configurations;
+
+3.  explain the financial determinants of a country's fiscal capacity and policy space, and identify measures governments can take to increase them;
+
+4.  think critically about both existing and potential alternative institutional arrangements;
+
+5.  use R (or other software) to obtain, process, and visualize financial data.
+
+## Pre-requisites
+
+A basic understanding of economic and financial concepts is highly recommended. You will get the most out of this course if you are interested in learning how to find, download, visualize, and interpret financial data.
+
+## Formative coursework
+
+Students must write up a data report.
+
+-   Report parameters: 800 words plus data visualizations.
+-   Data exercises relate to the topic of the respective week.
+-   We will mainly work with official data from the financial accounts or the balance of payments, or with important researcher-assembled datasets.
+-   Students select a data exercise from a list and submit their reports, in the form of a .pdf file, via Moodle.
+-   In class, students present and discuss their results in groups.
+-   Instruction will focus on data download, processing, and visualization in R, but the assignment can be completed using any software, including Excel.
+-   A guide to economic data sources is available [here](https://benjaminbraun.org/teaching/datasources/datasources).
+
+## Summative ssessment
+
+The summative assessment will take the form of an e-exam in the Spring Term. E-exams are assessments run under invigilated exam conditions on campus. Students will complete the assessment using software downloaded to their personal laptops.
+
+
+## Course outline
+
+### 1. Late 19^th^-century finance: First financial globalization
+
+Financial globalization is not new. The first financial globalization reached its peak in the late 19^th^ / early 20^th^ century. It was a both a driver and a byproduct of colonial expansion and imperialism. We will discuss two competing interpretations of the relationship between the financial core and periphery during this period. From a ‘financing perspective’, wealth owners in the metropolis provided scarce financial capital to their colonies. From a ‘financial claim’ perspective, they acquired claims on local economies at prices kept artificially low—and returns kept artificially high—by power asymmetries. These competing perspectives and the resulting differing interpretations of core-periphery dynamics retain their relevance today.
+
+**Core readings**
+
+-   Queralt, D. (2022). *Pawned States: State Building in the Era of International Finance.* Princeton University Press. **Chapters 3 & 4.**
+
+
+**Optional readings**
+
+-   Obstfeld, M., & Taylor, A. M. (2005). *Global capital markets: Integration, crisis, and growth*. Cambridge University Press. Pages 126-135.
+
+-   Chambers, D., & Esteves, R. (2014). The first global emerging markets investor: Foreign & Colonial Investment Trust 1880–1913. Explorations in Economic History, 52, 1–21.
+
+
+### 2. From financial deglobalization to financial globalization 2.0
+
+The post-war decades differ starkly from the periods of financial globalization that preceded and succeeded them. The international regime centred on the Bretton Woods system, which fixed exchange rates while seeking to impose strict controls on cross-border movements of capital. However, this international monetary arrangement remained precarious and came under increasing pressure during the late 1960s. Its eventual demise was both a result and an accelerant of a second wave of financial globalization. We will examine the drivers of this shift, with a particular focus on why European countries, despite being primed to remain under U.S. dominance in a future globalized monetary and financial system, nonetheless championed financial liberalization.
+
+**Core readings**
+
+-   Frieden, J. (2019). The Political Economy of the Bretton Woods Agreements. In N. Lamoreaux & I. Shapiro (Eds.), *The Bretton Woods Agreements: Together with Scholarly Commentaries and Essential Historical Documents* (pp. 21--37). Yale University Press.
+
+-   Abdelal, R. (2007). *Capital rules: The construction of global finance*. Harvard University Press. Pages 1-18.
+
+-   Kentikelenis, A. E., & Babb, S. (2019). The Making of Neoliberal Globalization: Norm Substitution and the Politics of Clandestine Institutional Change. *American Journal of Sociology*, *124*(6), Pages 1728--1751.
+
+**Optional readings**
+
+-   Helleiner, E. (2014). *Forgotten foundations of Bretton Woods: International development and the making of the postwar order*. Cornell University Press. Pages 1-28.
+
+-   Ogle, V. (2020). 'Funk Money': The end of empires, the expansion of tax havens, and decolonization as an economic and financial event. *Past & Present*, *249*(1), 213--249.
+
+
+### 3. How to read balance sheets and use financial data
+
+This week will begin with an introduction to double-entry bookkeeping and, based on this, to reading and thinking in terms of balance sheets. From there, we will move on to national accounting and you will learn how to navigate national financial accounts and balance of payments data. Instruction will be hands on and will focus on data download, processing, and visualization. Instruction will for the programming language R but will be useful also for users of other software, including Excel.
+
+**Core readings**
+
+-   OECD. (2017). *Understanding Financial Accounts*. Pages 23-60.
+
+-   Braun, B., & Koddenbrock, K. (2022). The Three Phases of Financial Power: Leverage, Infrastructure, and Enforcement. In B. Braun & K. Koddenbrock, *Capital Claims: Power and Global Finance*. Routledge.
+
+**Optional readings**
+
+-   IMF. Global Financial Stability Report (get latest edition [from here](https://www.imf.org/en/Publications/GFSR)).
+
+-   Explore national financial accounts via national central banks and national statistical agencies. See "[Data sources for IPE students](https://benjaminbraun.org/teaching/datasources/datasources)".
+
+### 4. The rise of institutional capital pools
+
+The main movers of capital used to be banks; today, they are institutional capital pools—pension funds, insurers, sovereign wealth funds, asset managers. In this week, we will deploy newly acquired financial data skills to map the landscape of European institutional capital pools and their global connections. We will focus our analytical attention on the the business models and investment preferences of these actors, which have far-reaching ramifications for everything from corporate governance, social services provisions, government finance, and climate policy. 
+
+**Core readings**
+
+-   Megginson, W. L., Lopez, D., & Malik, A. I. (2021). The rise of state-owned investors: Sovereign wealth funds and public pension funds. Annual Review of Financial Economics, 13, 247–270.
+
+-   Gabor, D. (2021). The Wall Street Consensus. *Development and Change*, *52*(3), 429--459.
+
+**Optional readings**
+
+-   McCarthy, M. A., Sorsa, V.-P., & van der Zwan, N. (2016). Investment preferences and patient capital: Financing, governance, and regulation in pension fund capitalism. Socio-Economic Review, 14(4), 751–769.
+
+-   Babić, M. (2023). The Rise of State Capital: Transforming Markets and International Politics. Agenda Publishing. **Chapter 3**.
+
+
+### 5. Sovereign debt: Base asset and fault line
+
+Sovereign bonds constitute the base asset on which the global financial system is built. At the same time, sovereign debt is the chief fault line built into that system. This week will examine the macrofinancial mechanisms and institutions through which sovereign borrower hierarchies are created and sustained. These hierarchies are shaped simultaneously by private and by public actors. On the private side, the key question is the composition of a country's bondholder structure. What types of institutional capital pools are the creditors—domestic or foreign, short-term or long-term? On the public side, seemingly arcane details of how technocratic actors interact with private markets have far-reaching effects. How do debt management offices sell sovereign bonds, and under what conditions do central banks buy them? Private in legal form but performing a quasi-public function, rating agencies are another key player in the sovereign debt game. We will study how this game is played, both in the euro area and at the global level.
+
+**Core readings**
+
+-   Mitchener, K. J., & Trebesch, C. (2023). Sovereign Debt in the Twenty-first Century. *Journal of Economic Literature*, 61(2), 565–623.
+
+-   Barta, Z. (2022). [Rating Sovereigns: Sovereign ratings in a financialized world](https://www.phenomenalworld.org/analysis/sovereign-ratings/). *Phenomenal World*.
+
+-   Bateman, W., & van ‘t Klooster, J. (2024). The dysfunctional taboo: Monetary financing at the Bank of England, the Federal Reserve, and the European Central Bank. *Review of International Political Economy*, 31(2), 413–437.
+
+**Optional readings**
+
+-   Rommerskirchen, C., & van der Heide, A. W. (2023). The quiet side of debt: Public debt management in advanced economies. *Socio-Economic Review*, 21(2), 1151–1170.
+
+-   Bruneau, Q. (2023). In the club: How and why central bankers created a hierarchy of sovereign borrowers, c. 1988--2007. *Review of International Political Economy*, 30(1), 153-175.
+
+### 7. Theorizing financial-sector power 
+
+It is easy to see why financial-sector actors should have power in a world in which financial capital is scarce. However, under financial liberalization and globalization, most borrowers — at least in rich countries — face few constraints. In a world in which both bank credit and institutional financial capital are abundant, what—if any—are the sources of financial-sector power? This week will explore this question in both of its two key dimensions: economic power vis-à-vis the non-financial sector and political power vis-à-vis the state.
+
+**Core readings**
+
+-   Pistor, K. (2019). The Code of Capital: How the Law Creates Wealth and Inequality. Princeton University Press. **Chapters 1 & 6.**
+
+-   Braun, B. (2022). Exit, Control, and Politics: Structural Power and Corporate Governance under Asset Manager Capitalism. *Politics & Society*, 50(4), 630–654.
+
+-   Chwieroth, J. M., & Walter, A. (2019). The Wealth Effect: How the Great Expectations of the Middle Class Have Changed the Politics of Banking Crises. Cambridge University Press. **Chapter 2**
+
+**Optional readings**
+
+-   Potts, S. (2024). Judicial Territory: Law, Capital, and the Expansion of American Empire. Duke University Press Books. **Chapter 5**. 
+
+-   Christophers, B. (2023). *Our Lives in Their Portfolios: Why Asset Managers Own the World*. Verso Books. **Chapter 3**.
+
+
+### 8. Currencies and geopolitics: Dollar assets, renminbi products?
+
+This week explores one of the most complex questions: The position of European finance—and hence of European borrowers, public and private alike—in the global monetary and financial hierarchy. Countries in the periphery of the global financial system depend on core countries for access to hard currency, be it to pay for imports or to repay foreign debts. States in the core routinely use this dependency to project power, notably through lending and through financial sanctions. At the same time, commodity exporters and large emerging economies use their status as net-creditors to the rest of the world to project power. The United States, meanwhile, provides the financial assets that form the backbone of institutional portfolios across the world. The place of European actors in the evolving global financial order depends on which piece of this puzzle is emphasized.
+
+**Core readings**
+
+-   Schwartz, H. M. (2020). [The Dollar and Empire: How the US dollar shapes geopolitical power](https://www.phenomenalworld.org/analysis/dollar-and-empire/). *Phenomenal World*.
+
+-   McDowell, D. 2023. *Bucking the Buck: US Financial Sanctions and the International Backlash against the Dollar*. Oxford University Press. **Chapters 1 & 6**.
+
+**Optional readings**
+
+-   Horn, S., Reinhart, C. M., & Trebesch, C. (2021). China's overseas lending. *Journal of International Economics*, *133*, 1-32.
+
+-   Ali, M. 2022. [Regime Change?The evolution and weaponization of the world dollar](https://www.phenomenalworld.org/analysis/regime-change/). *Phenomenal World*.
+
+-   Setser, B. W. 2022. [The New Geopolitics of Global Finance](https://www.cfr.org/blog/new-geopolitics-global-finance). *Follow the Money*.
+
+
+### 9. Capital mobility, financial suppression, and policy space
+
+Countries in the periphery of the system often lack control over domestic financial conditions, which instead are determined by developments at the core. This week will engage with the debate about the 'global financial cycle', the distinction between push and pull factors as drivers of cross-border capital movements, and the policy implications for core and periphery economies. We will interrogate the core-periphery distinction and study to examples of governments seeking to increase policy space without provoking capital flight and balance-of-payment difficulties.
+
+
+**Core readings**
+
+-   Miranda-Agrippino, S., & Rey, H. (2020). U.S. Monetary Policy and the Global Financial Cycle. *The Review of Economic Studies*, 87(6), 2754--2776.
+
+-   Korinek, A., Loungani, P. & Ostry, J. D. (2022). [The IMF's updated view on capital controls: Welcome fixes but major rethinking is still needed](https://www.brookings.edu/blog/up-front/2022/04/18/the-imfs-updated-view-on-capital-controls-welcome-fixes-but-major-rethinking-is-still-needed/). Brookings.
+
+-   Ban, C., & Bohle, D. (2021). Definancialization, financial repression and policy continuity in East-Central Europe. *Review of International Political Economy*, *28*(4), 874-897.
+
+
+**Optional readings**
+
+-   Mosley, L. (2000). Room to Move: International Financial Markets and National Welfare States. *International Organization*, 54(4), 737--773.
+
+-   IMF (2012). [The liberalization and management of capital flows: An institutional view](https://www.imf.org/en/Publications/Policy-Papers/Issues/2016/12/31/The-Liberalization-and-Management-of-Capital-Flows-An-Institutional-View-PP4720).
+
+-   IMF (2022). [Review of 'The institutional view on the liberalization and management of capital flows'](https://www.imf.org/en/Publications/Policy-Papers/Issues/2022/03/29/Review-of-The-Institutional-View-on-The-Liberalization-and-Management-of-Capital-Flows-515883).
+
+
+### 10. National growth models and global financial imbalances
+
+Most of the world's largest economies operate imbalanced growth models. The United States, as well as most other liberal market economies, run consumption-led models; China, Japan, and Germany have long relied on export-led growth. The policy response to the European financial crisis forced several other euro-area members to pursue an export-led growth strategy. The resulting macroeconomic imbalances are a crucial driving force of cross-border financial flows and key determinants of the level of domestic financialization. This week will explore the financial mechanisms that both underpin and undermine national growth models.
+
+**Core readings**
+
+-   Klein, M. C., & Pettis, M. (2020). *Trade Wars Are Class Wars*. Yale University Press. **Pages 101-130**.
+
+-   Baccaro, L., & Höpner, M. (2022). „The Political-Economic Foundations of Export-Led Growth: An Analysis of the German Case ". In L. Baccaro & J. Pontusson (Eds.), *Diminishing Returns: The New Politics of Growth and Stagnation* (pp. 238--267). Oxford University Press.
+
+**Option readings**
+
+-   Hünnekes, F., Konradt, M., Schularick, M., Trebesch, C., & Wingenbach, J. (Eds.). (2023). *Exportweltmeister: Germany's foreign investment returns in international comparison*. Graduate Institute of International and Development Studies Working Paper no. 03/2023. Geneva.
+
+
+### 11. Alternative financial orders
+
+We have learned that what you can do depends on where you stand in the global financial hierarchy. This final week is dedicated to the discussion of alternative institutional arrangements. What would a global financial system look like that is geared towards justice and sustainability? What institutions would be needed to support those goals? Who is most likely to oppose those institutions, and what would it take to overcome their opposition?
+
+**Core readings**
+
+-   Cordelli, C., & Levy, J. (2022). The Ethics of Global Capital Mobility. *American Political Science Review*, *116*(2), 439--452.
+
+-   Gallagher, K. P., & Kozul-Wright, R. (2021). *The Case for a New Bretton Woods*. John Wiley & Sons. Chapter 3.

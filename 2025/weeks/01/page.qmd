@@ -1,0 +1,25 @@
+---
+title: "🗓️ Week 01 -Late 19th-century finance: First financial globalizations"
+---
+
+Financial globalization is not new. The first financial globalization reached its peak in the late 19^th^ / early 20^th^ century. It was a both a driver and a byproduct of colonial expansion and imperialism. We will discuss two competing interpretations of the relationship between the financial core and periphery during this period. From a ‘financing perspective’, wealth owners in the metropolis provided scarce financial capital to their colonies. From a ‘financial claim’ perspective, they acquired claims on local economies at prices kept artificially low—and returns kept artificially high—by power asymmetries. These competing perspectives and the resulting differing interpretations of core-periphery dynamics retain their relevance today.
+
+## Lecture Slides 
+
+Either click on the slide area below or click [here](slides.qmd) to view it in full screen.
+Use your keypad to navigate the slides.
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="slides.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
+
+🎥 Looking for lecture recordings? You can only find those on Moodle.
+
+## ✍️ Coursework
+
+🚧 Come back after the lecture to read the coursework instructions for the week 🚧
+
+
+## 📚 Recommended Reading
+
+- Check the end of slides for the list of references cited in the lecture.

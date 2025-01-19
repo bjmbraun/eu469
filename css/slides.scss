@@ -1,0 +1,26 @@
+/*-- scss:defaults --*/
+
+// Colors used in the theme
+$code-block-bg: #23241f !default;
+$jet: #131516;
+$accent1: #2ecc71 ;
+$accent2: #e74c3c ;
+
+// Header font size
+$presentation-h2-font-size: 1.5em !default;
+
+// alerts etc.
+.alert {
+    color: $accent1;
+  }
+  
+  .fg {
+    color: $accent2;
+  }
+  
+  .bg {
+    background-color: $accent2;
+    padding: 0.1em;
+    border-radius: 5px;
+    display: inline-block;
+  }
