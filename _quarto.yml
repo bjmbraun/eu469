@@ -1,7 +1,7 @@
 project:
   type: "website"
   title: "EU469: Political economy of finance in Europe"
-  output-dir: _output
+  output-dir: _docs
   render:
     - "index.qmd"
     - "2025/*.qmd"
